@@ -1,1 +1,58 @@
+# =========================================================================
+# Java Compiled Source
+# =========================================================================
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# =========================================================================
+# Package Files (Only track source code, not compiled artifacts)
+# =========================================================================
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# =========================================================================
+# Build Tool Directories
+# =========================================================================
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# =========================================================================
+# IDE Configurations (Optional but highly recommended)
+# =========================================================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.metadata/
+.bin/
+.tmp/
+.classpath
+.project
+.settings/
+
+# Visual Studio Code
+.vscode/
 
